@@ -1,31 +1,31 @@
 # reading-notes
-Code 201 Reading Notes
+## Code 201 Reading Notes
 
-#Note 1
-
-
-
-#Note 2
+# Day 1
 
 
 
-
-#Note 3
+# Note 2
 
 
 
 
-#Note 4
+# Note 3
 
 
 
 
-#Note 5
+# Note 4
 
 
 
 
-#Note 6
+# Note 5
+
+
+
+
+# Note 6
 
 
 
